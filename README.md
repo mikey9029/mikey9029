@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Profile Banner" />
+  <img src="assets/Black and Gold Bold Legal Advisor LinkedIn Banner.png" width="100%" alt="Profile Banner" />
 </p>
 
 ---
