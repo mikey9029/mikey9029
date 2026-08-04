@@ -63,9 +63,6 @@ To contribute as an **AI Engineer / Software Engineer** developing cutting‑edg
 
 - **Facial Emotion Recognition** – Hybrid CNN‑Transformer model on FER2013+ dataset.  
   • Repository: [FER‑Hybrid](https://github.com/mikey9029/FER-Hybrid)
-- **AI‑Powered Chatbot** – Built with LangChain and OpenAI APIs.  
-  • Demo: https://nikhilesh-chatbot.onrender.com
-
 ---
 
 ## 📫 Connect with Me
